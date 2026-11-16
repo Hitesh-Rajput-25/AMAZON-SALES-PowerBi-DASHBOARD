@@ -28,4 +28,3 @@ In this project, I created an interactive *Power BI Dashboard* to analyze Amazon
 ## 📂 Files in This Repository
 - Amazon_Sales_Dashboard.pbix — Complete Power BI Desktop file.
 - amazon_dashboard.png — High-resolution dashboard preview image.
--
