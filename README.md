@@ -27,6 +27,7 @@ In this project, I created an interactive *Power BI Dashboard* to analyze Amazon
 
 ## 🖼️ Dashboard Preview
 ![Amazon Sales Dashboard](amazon_dashboard.png)
+[Amazon Sales Dashboard](Amazon-Sales-PowerBi-Dashboard.png)
 
 ---
 
